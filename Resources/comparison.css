@@ -5,13 +5,42 @@ body {
 h1 {
         font-size:46px;
         text-shadow: 4px 2px 4px white;
-        
+        font-family:'Major Mono Display', monospace;
 }
 
 p {
-        font-size: 20px;
+        font-size: 25px;
+        font-family:'Major Mono Display', monospace;
+        text-shadow: 4px 2px 4px white;
+        text-align: justify;
+}
+
+header {
+        font-family:'Fredericka the Great', cursive;
+        font-size: 30px;
+        color: white
+        
 
 }
+
+li {
+        font-family: 'Ceviche One', cursive;
+        font-size:28px;
+}
+
+article{
+        background-color: gray;
+        text-align: justify;
+
+}
+
+section {
+        text-decoration: underline gray;
+        
+}
+
+
+
 
 
 
